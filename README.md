@@ -63,7 +63,6 @@
   <img src="https://komarev.com/ghpvc/?username=sitabahadur&style=flat-square&color=ff6f91" align="center" alt="visitor badge"/>
  </br>
  </br>
-   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitabahadur&langs_count=7&layout=compact&bg_color=transparent" />
 
 </p>
      
