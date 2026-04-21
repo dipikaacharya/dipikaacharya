@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Dipika Acharya.</h1>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF6F91&size=25&center=false&lines=🔍+QA+Engineer...;📊+Product+Analyst...;🧠+Computer+Engineer+Student...;🚀+Project+Management..."/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF6F91&size=25&center=false&lines=🔍+QA+Engineer...;📊+Product+Analyst...;🧠+Computer+Engineering+Student...;🚀+Project+Management..."/>
 
 ---
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right" />
