@@ -3,7 +3,7 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF6F91&size=25&center=false&lines=🔍+QA+Engineer...;📊+Product+Analyst...;🧠+Computer+Engineering+Student...;🚀+Project+Management..."/>
 
 ---
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500" align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="45%" align="right">
 
 <h3>🌟 About Me!!</h3>
 
