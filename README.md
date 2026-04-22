@@ -31,7 +31,7 @@
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-FF6F91?style=flat)&nbsp;
 ![Automation Testing](https://img.shields.io/badge/Automation%20Testing-FF6F91?style=flat)&nbsp;
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)&nbsp;
-![Playwright](https://img.shields.io/badge/Manual%20Testing-FF6F91?style=flat)&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-FF6F91?style=flat)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)&nbsp;
 
 
