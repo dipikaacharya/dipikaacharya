@@ -85,11 +85,7 @@
 
 </br>
 
------
 
-### My GitHub stats 
-
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=dipikaacharya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <div align="center">
