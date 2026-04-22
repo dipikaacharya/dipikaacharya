@@ -19,7 +19,7 @@
 
 ✍️ I enjoy breaking down complex systems into simple insights.
 
----
+
 
 <table width="100%">
   <tr>
